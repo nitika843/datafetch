@@ -46,6 +46,7 @@ export const stockData = [
       ticker: "HUBS",
       stockPrice: "115.22 USD",
       timeElapsed: "12 sec ago",
+      // vhchgdjhkkzsm
     },
   ];
   
